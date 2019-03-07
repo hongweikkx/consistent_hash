@@ -1,6 +1,5 @@
 %%%-------------------------------------------------------------------
 %%% @author hongweigaokkx@163.com
-%%% @copyright (C) 2019, <COMPANY>
 %%% @doc
 %%%        md5:md5 and md5:md5_other 有相同的转化效果
 %%% @end
